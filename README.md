@@ -4,11 +4,39 @@
 
 ### Data Science Shelf
 
+[Data Science Shelf](https://dsbook-list.web.app/) is a simple web app for sharing good reads in data science. 
 
+
+<img src = 'https://qiushi.rbind.io/project/data-science-shelf/featured_hu2a2fd19ce2d1a85f104e7db3c03d0017_196571_720x0_resize_q90_lanczos.jpg'/>
+
+Users can 
+
+- create, share and like book lists
+
+- write list description and book review via Markdown Syntax
+
+- filter lists based on categories, tags, or search term 
+
+- view any user's profile 
+
+
+Some features include 
+
+- user authentication and file storage
+
+- real-time updates and query
+
+- markdown editor support 
+
+- composition API 
+
+[Site](https://dsbook-list.web.app/)
+
+[Source](https://github.com/enixam/data-science-shelf)
 
 ### Minimal Chatroom
 
-A minimal online chatroom built with vue, and hosted on Firebase. Includes realtime updates, authentication, and security rules, uses Glassmorphism UI. It's also my first attempt at [Github Actions](https://github.com/enixam/chatroom/actions?query=workflow%3A%22Deploy+with+Firebase%22)!  
+A minimal online chatroom, including realtime updates, authentication, and security rules, uses Glassmorphism UI. It's also my first attempt at [Github Actions](https://github.com/enixam/chatroom/actions?query=workflow%3A%22Deploy+with+Firebase%22)!  
 
 
 <a href = "https://minimal-chatroom.web.app/">

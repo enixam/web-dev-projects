@@ -40,7 +40,7 @@ A minimal online chatroom, including realtime updates, authentication, and secur
 
 
 <a href = "https://minimal-chatroom.web.app/">
-  <img src="https://qiushi.rbind.io/project/chatroom/featured_hu18ec2d6ae2dafaff64fc87f8ab1abd15_43567_720x0_resize_q90_lanczos.jpg">
+  <img src="./images/chatroom.jpg">
 </a>
 
 [Site](https://minimal-chatroom.web.app)

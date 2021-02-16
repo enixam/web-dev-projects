@@ -6,8 +6,13 @@
 
 ## React
 
-### Github Profile 
+### Github Profile Viewer
 
+<img src = 'https://qiushi.rbind.io/project/github-profile-viewer/featured.jpg' />'
+
+[Site](https://gh-profile-viewer.netlify.app)
+
+[Source](https://github.com/enixam/github-profile-viewer)
 
 ## Vue
 

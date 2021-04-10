@@ -6,6 +6,25 @@
 
 ## React
 
+### JavaScript Notebook 
+
+An interactive notebook for JavaScript.
+
+To use the app, run `npx javascript-notebook serve` and then navigate to https://localhost:3001
+
+You can also install the package globally via
+
+```
+# npm
+npm install -g javascript-notebook
+# yarn
+yarn global add javascript-notebook
+```
+
+For a quick preview, go to https://javascript-notebook.netlify.app/, where you can still code but not save to local files.
+
+<img src = 'https://qiushi.rbind.io/project/javascript-notebook/featured.jpg' />
+
 ### Github Profile Viewer
 
 <img src = 'https://qiushi.rbind.io/project/github-profile-viewer/featured.jpg' />'
@@ -64,10 +83,6 @@ A minimal online chatroom, including realtime updates, authentication, and secur
 ### Reaction Timer
 
 My first vue project. A simple yet fun app testing your reaction time. Happy clicking!
-
-<a href = "https://test-your-reaction.web.app/">
-  <img src="https://qiushi.rbind.io/project/reaction-timer/featured_hub15b733d044dbeffe3060a11a359ffc0_46776_720x0_resize_q90_lanczos.jpg">
-</a>
 
 
 [Site](https://test-your-reaction.web.app)
